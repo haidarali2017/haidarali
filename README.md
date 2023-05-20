@@ -6,7 +6,14 @@
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Codeigniter](https://img.shields.io/badge/Codeigniter-593D88?style=flat-square&logo=vite&logoColor=white)
+![Codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -38,6 +45,23 @@ I am working as a Full stack PHP developer for 6 years.  I am working on this ty
 . Digital Appointment System
 . Many Websites
 
+Responsibilities
+1) Developing and maintaining web applications using Laravel or CodeIgniter.
+2) Writing clean, efficient, and maintainable code according to coding standards.
+3) Building and integrating third-party APIs and libraries into web applications.
+4) Performing testing and debugging of web applications to ensure function properly.
+5) Designing and implementing database schemas and working with relational databases.
+6) Creating and managing project documentation, including technical specifications and user guides
+7) Participating in code reviews and providing constructive feedback to other developers.
+8) Continuously improving the performance and scalability of web applications.
+9) Collaborating with designers and other team members to ensure that the UI design is implemented accurately
+and efficiently.
+10) Working closely with back-end developers to integrate front-end functionality with server-side logic.
+11) Monitoring and optimizing the performance of backend applications and databases.
+12) Collaborating with front-end developers to integrate front-end functionality with server-side logic.
+13) Ensuring the security and integrity of data stored in the database and transmitted between the client and
+server.
+14) Designing and implementing scalable and efficient databases to store and retrieve data
 Some of my project links  Below here: 
 Websites
 
