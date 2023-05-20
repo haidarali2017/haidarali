@@ -62,12 +62,38 @@ and efficiently.
 13) Ensuring the security and integrity of data stored in the database and transmitted between the client and
 server.
 14) Designing and implementing scalable and efficient databases to store and retrieve data
-Some of my project links  Below here: 
-Websites
+### Some of my project links  Below here: 
+### Websites
 
 [Website-greenarchitectbd](https://greenarchitectbd.com)  
+[Website-cmsnbd](https://www.cmsnbd.com)  
+[Website-cmsngroup](https://cmsngroup.com.au)  
+[Website-cmsnnetwork](https://cmsnnetwork.com.au)  
+[Website-eqms](https://eqms.com.bd/)  
+[Website-bdmarinerssociety](http://bdmarinerssociety.com/)  
+[Website-sheikhmohiturrahmanbablu](https://sheikhmohiturrahmanbablu.com/)  
+[Website-ssc1986bangladesh](https://ssc1986bangladesh.com/)  
+### Blood management
+[Website-greenarchitectbd](https://marinersbloodcenter.com/)  
+[Website-retinabd](https://retinabd.org)  
+### POS
+[Website-pos](https://pos.sarait.com.bd/login)  
+username: saraitco
+p/w: 123456789
+### E-commerce
+
+[E-commerce-allelectricbd](https://allelectricbd.com)  
+[E-commerce-voot4adda](https://voot4adda.com/)  
+[E-commerce-technodesk](http://www.technodesk.com.au)  
+[E-commerce-chinalandbd](https://chinalandbd.com/)  
+[E-commerce-sbgiftbd](https://www.sbgiftbd.com/) 
+### Hosting 
+[Hosting-cmsnbd](https://cmsnbd.com/web-hosting)  
+### School Management
+[School-bqeb](https://bqeb.org/)  
+[School-lightfairschool](https://lightfairschool.com/)  
+[School-schoolmanagement](https://sm.sarait.com.bd/login)  
 
 ### Where to find me
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haidarali2017/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/haidarali2011)
